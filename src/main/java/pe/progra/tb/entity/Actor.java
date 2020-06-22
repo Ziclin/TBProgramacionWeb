@@ -128,7 +128,7 @@ public class Actor implements Serializable {
 		return true;
 	}
 
-	
+	/*ejemplo*/
 	/*Ejemplo de commit*/
 }
 
